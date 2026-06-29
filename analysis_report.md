@@ -38,11 +38,11 @@ The following preprocessing steps were performed:
 
 The project includes:
 
-- Total Revenue
-- Average Sale
-- Highest Sale
-- Lowest Sale
-- Product-wise Sales
+- Total Revenue    1,23,65,048
+- Average Sale     1,23,650.48
+- Highest Sale     3,73,932
+- Lowest Sale      6,540
+- Product-wise Sales 
 - Region-wise Sales
 - Monthly Sales Trend
 
